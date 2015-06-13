@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23ED3224-F01E-4AD5-B5D1-971A909B2CB8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>37EA878CF2B6CB53D3BE61CBF4DF799E487346DC</key>
+		<string>github.com:futursolo/Swift-Speed-Test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>cpp/C++ Prime Calculator/C++ Prime Calculator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>37EA878CF2B6CB53D3BE61CBF4DF799E487346DC</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:futursolo/Swift-Speed-Test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>37EA878CF2B6CB53D3BE61CBF4DF799E487346DC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>37EA878CF2B6CB53D3BE61CBF4DF799E487346DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift-Speed-Test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
