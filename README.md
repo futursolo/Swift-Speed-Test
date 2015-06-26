@@ -11,6 +11,7 @@ This test is sample and subjective, you should not reference the result of this 
 ##Current Languages and Scores
  - Swift(Xcode6.3: 0.02s)
  - Python(Python3: 0.6s, Pypy3: 0.07s)
+ - Node.js(0.13s)
  - C++(Xcode6.3: 0.000001s)
 
 ##Welcome Pull Requests and Send Issues
